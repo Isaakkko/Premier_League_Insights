@@ -1,4 +1,4 @@
-````markdown
+
 # Premier League Insights
 
 Sistema de análisis de datos de la Premier League desarrollado en Python mediante programación orientada a objetos, análisis exploratorio de datos y visualización interactiva con Streamlit.
@@ -6,12 +6,6 @@ Sistema de análisis de datos de la Premier League desarrollado en Python median
 ## Institución
 
 **Colegio Universitario de Cartago — Costa Rica**
-
-## Integrantes
-
-- Isaac Ulloa Calvo
-- Jeffrey Jiménez Cordero
-- Felipe Montenegro Artavia
 
 ## Descripción
 
@@ -34,7 +28,7 @@ El proyecto utiliza el archivo:
 
 ```text
 premier.csv
-````
+
 
 El conjunto de datos contiene aproximadamente:
 
